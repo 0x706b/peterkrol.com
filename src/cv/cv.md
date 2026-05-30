@@ -27,6 +27,11 @@ I read a lot of code, and I understand new concepts and languages quickly.
   - Vite
   - Effect
   - MUI
+- Kotlin and Java
+  - Spring Boot
+  - Jackson
+  - Gradle
+- OpenAPI
 - Docker
 - Git
 - (Neo)Vim
@@ -37,6 +42,7 @@ I read a lot of code, and I understand new concepts and languages quickly.
 ## Familiar Technologies
 
 - GraphQL
+- RabbitMQ
 - Kubernetes
 - PostgreSQL
 - Webpack
