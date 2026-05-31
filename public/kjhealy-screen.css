@@ -131,6 +131,7 @@ table {
 /* end of reset */
 
 body {
+  overflow: hidden;
   background-color: #0f0f0f;
   color: #f0f0f0;
   line-height: 1.5em;
@@ -267,6 +268,10 @@ strong {
 
 #address {
   display: none;
+}
+
+#content {
+  padding: 32px;
 }
 
 /*

@@ -6,8 +6,8 @@ title: Peter Krol's CV
 
 <div id="webaddress">
 • Portland, Oregon, United States
-• <a href="peter@peterkrol.com">peter@peterkrol.com</a>
-• <a href="https://github.com/0x706b">GitHub</a>
+• <a href="mailto:peter@peterkrol.com">peter@peterkrol.com</a>
+• <a href="https://github.com/0x706b">GitHub (0x706b)</a>
 •
 </div>
 
